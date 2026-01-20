@@ -39,7 +39,7 @@ Created a detailed project report documenting methodology, analysis, and finding
 
 ## How to Run the Project
 1. Clone the repository  
-   `git clone https://github.com/your-username/your-repo-name.git`
+   `git clone https://github.com/essomoserge/customer_behavior_analysis.git`
 2. Open Jupyter Notebook  
    `jupyter notebook`
 3. Install dependencies  
