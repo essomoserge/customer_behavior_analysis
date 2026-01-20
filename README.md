@@ -44,7 +44,7 @@ Created a detailed project report documenting methodology, analysis, and finding
    `jupyter notebook`
 3. Install dependencies  
    `pip install pandas numpy matplotlib seaborn sqlalchemy`
-4. Configure the database connection (MySQL / SQL Server)
+4. Configure the database connection (MPostgreSQL / MySQL / SQL Server)
 5. Execute SQL scripts for analysis
 6. Open the Power BI file to explore the dashboard
 
